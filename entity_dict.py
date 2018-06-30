@@ -69,3 +69,20 @@ entity_dict_URU = {
 	"Maxi_Gomez": ["Maxi", "Gomez", "Maxi Gomez"],
 	"Martin Caceres": ["Martin", "Caceres", "Martin Caceres"]
 }
+
+entity_dict_POR = {
+  "Rui_Patrício": ["Rui", "Patrício", "Rui Patrício"],
+  "Ricardo_Quaresma": ["Ricardo", "Quaresma", "Ricardo Quaresma"],
+  "Pepe": ["Pepe"],
+  "Raphael_Guerreiro": ["Raphael", "Guerreiro", "Raphael Guerreiro"],
+  "Jose_Fonte": ["Jose", "Fonte", "Jose Fonte"],
+  "Cristiano_Ronaldo": ["Cristiano", "Ronaldo", "Cristiano Ronaldo"],
+  "Andre_Silva": ["Andre", "Silva", "Andre Silva"],
+  "Goncalo_Guedes": ["Goncalo", "Guedes", "Goncalo Guedes"],
+  "Joao_Mario": ["Joao", "Mario", "Joao Mario"],
+  "Joao_Moutinho": ["Joao", "Moutinho", "Joao Moutinho"],
+  "William_Carvalho": ["William", "Carvalho", "William Carvalho"],
+  "Bernardo_Silva": ["Bernardo", "Silva", "Bernardo Silva"],
+  "Cedric": ["Cedric", ],
+  "Adrien_Silva": ["Adrien", "Silva", "Adrien Silva"],
+}
