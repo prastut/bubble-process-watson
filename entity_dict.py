@@ -1,0 +1,54 @@
+entity_dict_SRH = {
+	"Ambati_Rayudu" : ["Ambati", "Rayudu", "Ambati Rayudu"],
+	"Shane_Watson": ["Shane", "Watson", "Shane Watson"],
+	"Sam_Billings": ["Sam", "Billings", "Sam Billings"],
+	"MS_Dhoni" : ["MSD", "Dhoni", "MS Dhoni"], 
+	"Suresh_Raina" : ["Suresh", "Raina", "Suresh Raina"], 
+	"Ravindra_Jadeja" : ["Ravindra", "Jadeja", "Jaddu", "Ravindra Jadeja"], 
+	"Dwayne_Bravo" : ["Bravo", "Dwayne", "Dwayne Bravo"], 
+	"David_Willey" : ["David", "Willey", "David Willey"], 
+	"Harbhajan_Singh" : ["Harbhajan", "Bhajji", "Harbhajan_Singh"], 
+	"Imran_Tahir" : ["Imran", "Tahir", "Imran Tahir"], 
+	"Shardul_Thakur" : ["Shardul", "Thakur", "Shardul Thakur"], 
+	"Faf_du_Plessis" : ["du Plessis", "Faf du Plessis"], 
+	"Deepak_Chahar" : ["Deepak", "Chahar", "Deepak Chahar"], 
+	"Karn_Sharma" : ["Karn", "Sharma", "Karn Sharma"], 
+	"Lungi_Ngidi" : ["Lungi", "Ngidi", "Lungi Ngidi"],
+	"Chennai_Super_Kings" : ["CSK", "Chennai", "Superkings", "Super Kings", "Chennai Superkings", "Chennai Super Kings"]
+}
+
+entity_dict_CSK = {
+	"Kane_Williamson": ["Kane", "Williamson", "Kane Williamson"],
+	"Manish_Pandey": ["Manish", "Pandey", "Manish Pandey"],
+	"Carlos_Brathwaite": ["Carlos", "Brathwaite", "Carlos Brathwaite"],
+	"Wriddhiman_Saha": ["Wriddhiman", "Saha", "Wriddhiman Saha"],
+	"Ricky_Bhui": ["Ricky", "Bhui", "Ricky Bhui"],
+	"Rashid_Khan": ["Rashid", "Khan", "Rashid Khan"],
+	"Deepak_Hooda": ["Deepak", "Hooda", "Deepak Hooda"],
+	"Basil_Thampi": ["Basil", "Thampi", "Basil Thampi"],
+	"Mohammad_Nabi": ["Mohammad", "Nabi", "Mohammad Nabi"],
+	"Siddarth_Kaul": ["Siddarth", "Kaul", "Siddarth Kaul"],
+	"T_Natarajan": ["Natarajan", "T Natarajan"],
+	"K_Khaleel_Ahmed": ["Khaleel", "K Khaleel Ahmed"],
+	"Sandeep_Sharma": ["Sandeep", "Sandeep Sharma"],
+	"Sachin_Baby": ["Sachin", "Sachin Baby"],
+	"Alex_Hales": ["Alex", "Hales","Alex Hales"],
+	"Chris_Jordan": ["Chris", "Jordan","Chris Jordan"],
+	"Tanmay_Agarwal": ["Tanmay", "Agarwal", "Tanmay Agarwal"],
+	"Mehdi_Hasan": ["Mehdi", "Hasan","Mehdi Hasan"],
+	"Shreevats_Goswami": ["Shreevats", "Goswami", "Shreevats Goswami"],
+	"Bipul_Sharma": ["Bipul", "Sharma", "Bipul Sharma"],
+	"Shikhar Dhawan": ["Shikhar", "Dhawan", "Shikhar Dhawan"],
+	"Sunrisers_Hyderabad": ["Sunrisers", "Hyderabad", "SRH", "Sunrisers Hyderabad"]
+}
+
+entity_dict_ARG = {
+	"Lionel_Messi": ["Leo", "Messi", "Leo Messi", "Lionel Messi"],
+	"Angel_di_Maria": ["Di Maria", "Angel di Maria"],
+	"Sergio_Aguero": ["Sergio Aguero", "Kun Aguero", "Aguero"]
+}
+
+entity_dict_ISL = {
+	"Alfred_Finnbogason": ["Alfred Finnbogason", "Finnbogason"],
+	"Hannes_Halldorsson": ["Hannes Halldorsson", "Halldorsson"]
+}
