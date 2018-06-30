@@ -52,3 +52,20 @@ entity_dict_ISL = {
 	"Alfred_Finnbogason": ["Alfred Finnbogason", "Finnbogason"],
 	"Hannes_Halldorsson": ["Hannes Halldorsson", "Halldorsson"]
 }
+
+entity_dict_URU = {
+	"Fernando_Muslera": ["Fernando Muslera", "Fernando", "Muslera"],
+	"Diego_Godin": ["Diego Godin", "Diego", "Godin"],
+	"Rodrigo_Betancu": ["Rodrigo", "Betancu", "Rodrigo Betancu"],
+	"Giorgian_De_Arrascaeta": ["De Arrascaeta", "Giorgian De Arrascaeta"],
+	"Nahitan_Nandez": ["Nahitan Nandez", "Nahitan", "Nandez"],
+	"Cristian_Rodriguez": ["Cristian Rodriguez", "Cristian", "Rodriguez"],
+	"Luis_Suarez": ["Luis Suarez", "Luis", "Suarez"],
+	"Lucas_Torreira": ["Lucas", "Torreira", "Lucas Torreira"],
+	"Mateo_Vecino": ["Mateo", "Vecino", "Mateo Vecino"],
+	"Diego_Laxalt": ["Diego Laxalt", "Diego", "Laxalt"],
+	"Sebastian_Coates": ["Sebastian Coates", "Sebastian", "Coates"],
+	"Edinson_Cavani": ["Edinson Cavani", "Edinson", "Cavani"],
+	"Maxi_Gomez": ["Maxi", "Gomez", "Maxi Gomez"],
+	"Martin Caceres": ["Martin", "Caceres", "Martin Caceres"]
+}
